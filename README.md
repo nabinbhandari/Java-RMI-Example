@@ -5,7 +5,7 @@ One can run this example in either single computer using localhost or in multipl
 
 To initialize server:
 
-  -goto the bin folder.
+  -goto the bin folder in terminal/command prompt.
   
   -run:
   
@@ -13,7 +13,7 @@ To initialize server:
   
 To run client:
 
-  -goto the bin folder.
+  -goto the bin folder in terminal/command prompt.
   
   -run:
   
